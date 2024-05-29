@@ -1,3 +1,4 @@
 This is a test of the local clone of the github planets repository.
 Additional lines will be added via command line below.
 This is a handshake from receiving account. Please confirm.
+Confirmed.
