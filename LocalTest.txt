@@ -1,0 +1,2 @@
+This is a test of the local clone of the github planets repository.
+Additional lines will be added via command line below.
